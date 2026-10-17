@@ -1,34 +1,45 @@
 <!-- Soji — GitHub profile README -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,45:0E7490,100:7C3AED&height=200&section=header&text=Soji&fontColor=F8FAFC&fontSize=72&fontAlignY=36&desc=AI%20Infrastructure%20%C2%B7%20DevOps%20%C2%B7%20MLOps&descSize=20&descAlignY=58&animation=fadeIn" alt="Soji — AI Infrastructure · DevOps · MLOps" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,45:0E7490,100:7C3AED&height=210&section=header&text=Soji&fontColor=F8FAFC&fontSize=74&fontAlignY=35&desc=Principal%20DevOps%20Engineer%20%C2%B7%20AI%20Infrastructure%20%C2%B7%20MLOps&descSize=19&descAlignY=56&animation=fadeIn" alt="Soji — Principal DevOps Engineer · AI Infrastructure · MLOps" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=22D3EE&center=true&vCenter=true&width=760&lines=Platforms+that+run+production+AI;Multi-cluster+EKS+%C2%B7+Istio+mesh+%C2%B7+Argo+CD+GitOps;GenAI+on+Bedrock+%C2%B7+SageMaker+MLOps;policy-as-code+%C2%B7+everything+as+IaC" alt="" />
+  <img src="https://img.shields.io/badge/Principal%20DevOps%20Engineer-0E7490?style=for-the-badge&labelColor=0B1120" />
+  <img src="https://img.shields.io/badge/AI%20Infrastructure-7C3AED?style=for-the-badge&labelColor=0B1120" />
+  <img src="https://img.shields.io/badge/Ex--Solutions%20Architect%20%40%20AWS-FF9900?style=for-the-badge&labelColor=0B1120&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAANG-111827?style=for-the-badge&labelColor=0B1120&logo=verizon&logoColor=22D3EE" />
 </p>
 
-### ◢ whoami
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=22D3EE&center=true&vCenter=true&width=820&lines=Infrastructure+that+makes+AI+scalable;DevOps+repeatable+%C2%B7+cloud+platforms+production-ready;from+experimentation+to+production%2C+securely" alt="" />
+</p>
 
-```python
-class Soji:
-    role   = "DevOps Lead — MLOps & AI Platform"
-    former = "AWS Solutions Architect"
-    focus  = ["AI infrastructure", "Kubernetes platforms", "MLOps", "GenAI / agentic"]
-    ships  = "production AI workloads @ 99.9% uptime"
-    motto  = "a team should onboard with one YAML file"
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:0E7490,100:7C3AED&height=3&section=header" alt="" />
 
-I build the platforms that run production AI — **EKS fleets, service mesh, GitOps, and the
-inference pipelines** that let scientists ship models without touching infrastructure.
-Currently leading DevOps for an enterprise **MLOps & GenAI** platform; formerly an **AWS Solutions Architect**.
+## ◢ about
 
-### ◢ what I build
+I'm a **Principal DevOps Engineer** specializing in **AI Infrastructure, Cloud Platform Engineering, and MLOps**. I focus on architecting, automating, and securing the infrastructure that enables organizations to deploy, operate, and scale modern AI workloads reliably and efficiently.
 
-- **Multi-cluster EKS fleets** in Terraform — one cluster per workload class, each self-reconciling via **Argo CD** `ApplicationSets` (no central hub).
-- **Zero-trust mesh** — Istio + Envoy **mTLS**, `AuthorizationPolicy`, Envoy ext-authz → **OPA that fails closed**.
-- **GenAI & MLOps** — agents on **Bedrock AgentCore** (Strands SDK, MCP tools); **SageMaker** real-time/batch inference; pipelines that cut deploy time **50%**.
-- **Guardrails & scale** — OPA Gatekeeper, Pod Security, default-deny netpol, IRSA; **Karpenter** (Spot/GPU) + ParallelCluster HPC.
+My work sits at the intersection of **cloud engineering, platform automation, DevSecOps, and production AI systems**. I build resilient cloud-native platforms, streamline software delivery, and establish the infrastructure foundations required to take AI initiatives from experimentation to production.
 
-### ◢ stack
+## ◢ core areas of expertise
+
+> **🧠 AI Infrastructure & MLOps** — Designing cloud infrastructure for AI/ML workloads, automating model deployment and lifecycle management, enabling scalable model hosting, and integrating AI security controls using services such as **Amazon SageMaker** and **Amazon Bedrock Guardrails**.
+
+> **☁️ Cloud & Platform Engineering** — Architecting secure, highly available, and cost-efficient cloud environments across **AWS, Azure, and Google Cloud**, spanning compute, storage, networking, databases, identity and access management, and cloud governance.
+
+> **🔁 DevOps, Automation & GitOps** — Building automated delivery pipelines and repeatable infrastructure deployments with **Terraform, CloudFormation, GitLab CI/CD, Kubernetes, Amazon EKS, Docker, and Argo CD**.
+
+> **🛡️ DevSecOps & AI Security** — Embedding security into infrastructure and delivery workflows through **least-privilege access, infrastructure security, automated controls, zero-trust principles, and responsible-AI safeguards**.
+
+> **📈 Reliability, Observability & Optimization** — Improving system resilience, operational visibility, performance, and cloud cost efficiency through effective **monitoring, logging, automation, and infrastructure lifecycle management**.
+
+As a principal-level engineer, I bring a **systems-oriented mindset** to complex engineering challenges — balancing architectural decisions with implementation, operational reliability, security, and long-term maintainability. I'm particularly interested in building platforms that empower engineering and data science teams to innovate faster without compromising reliability, governance, or security.
+
+**My focus is simple: build the infrastructure that makes AI scalable, DevOps repeatable, and cloud platforms production-ready.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:0E7490,100:7C3AED&height=3&section=header" alt="" />
+
+## ◢ stack
 
 <table border="0">
   <tr>
@@ -53,7 +64,8 @@ Currently leading DevOps for an enterprise **MLOps & GenAI** platform; formerly 
     <td valign="middle"><sub><b>IaC</b></sub></td>
     <td>
       <img height="38" alt="Terraform" title="Terraform" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />&nbsp;&nbsp;
-      <img height="38" alt="Pulumi" title="Pulumi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pulumi/pulumi-original.svg" />
+      <img height="38" alt="Pulumi" title="Pulumi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pulumi/pulumi-original.svg" />&nbsp;&nbsp;
+      <img height="38" alt="AWS CloudFormation" title="AWS CloudFormation" src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudFormation.svg" />
     </td>
   </tr>
   <tr>
@@ -88,11 +100,19 @@ Currently leading DevOps for an enterprise **MLOps & GenAI** platform; formerly 
   </tr>
 </table>
 
-### ◢ certs
+## ◢ certifications
 
 `NVIDIA-Certified — AI Infrastructure & Operations` · `AWS Solutions Architect – Associate` · `AWS Developer – Associate` · `AWS AI Practitioner`
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:0E7490,100:7C3AED&height=3&section=header" alt="" />
+
+### ◢ let's connect
+
+I welcome connections with **engineering leaders, AI infrastructure teams, cloud architects, and organizations building the next generation of AI-powered platforms.**
+
 <p>
-  <a href="https://www.linkedin.com/in/adesoji-adetunji-a61b34163"><img height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:meet-soji@outlook.com"><img height="28" src="https://img.shields.io/badge/Email-0E7490?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/adesoji-adetunji-a61b34163"><img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:meet-soji@outlook.com"><img height="30" src="https://img.shields.io/badge/Email-0E7490?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,55:7C3AED,100:0E7490&height=110&section=footer" alt="" />
