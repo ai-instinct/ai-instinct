@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="46" viewBox="0 0 830 46" font-family="'Courier New', ui-monospace, monospace">
+  <style>
+    .pill { fill:#0A0F0A; stroke:#00FF41; stroke-opacity:0.55; }
+    .txt  { fill:#00FF41; font-size:13px; font-weight:bold; letter-spacing:0.6px; }
+  </style>
+
+  <!-- PRINCIPAL DEVOPS ENGINEER -->
+  <rect class="pill" x="6"   y="7" width="250" height="32" rx="8"/>
+  <text class="txt" x="131" y="27" text-anchor="middle">▹ PRINCIPAL DEVOPS ENGINEER</text>
+
+  <!-- AI INFRASTRUCTURE -->
+  <rect class="pill" x="268" y="7" width="180" height="32" rx="8"/>
+  <text class="txt" x="358" y="27" text-anchor="middle">▹ AI INFRASTRUCTURE</text>
+
+  <!-- EX-SOLUTIONS ARCHITECT @ AWS -->
+  <rect class="pill" x="460" y="7" width="278" height="32" rx="8"/>
+  <text class="txt" x="599" y="27" text-anchor="middle">▹ EX-SOLUTIONS ARCHITECT @ AWS</text>
+
+  <!-- FAANG -->
+  <rect class="pill" x="750" y="7" width="74" height="32" rx="8"/>
+  <text class="txt" x="787" y="27" text-anchor="middle">▹ FAANG</text>
+</svg>
