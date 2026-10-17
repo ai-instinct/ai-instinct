@@ -1,6 +1,8 @@
 <!-- Soji — GitHub profile README -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:003B00,100:008F11&height=210&section=header&text=Soji&fontColor=00FF41&fontSize=76&fontAlignY=35&desc=Principal%20DevOps%20Engineer%20%C2%B7%20AI%20Infrastructure%20%C2%B7%20MLOps&descSize=19&descAlignY=56&animation=fadeIn" alt="Soji — Principal DevOps Engineer · AI Infrastructure · MLOps" />
+<p align="center">
+  <img src="assets/soji-terminal.svg" width="92%" alt="soji@github — Principal DevOps Engineer · AI Infrastructure · MLOps" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/▹_PRINCIPAL_DEVOPS_ENGINEER-00FF41?style=for-the-badge&labelColor=0D0208" />
