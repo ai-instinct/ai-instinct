@@ -5,10 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/▹_PRINCIPAL_DEVOPS_ENGINEER-00FF41?style=for-the-badge&labelColor=0D0208" />
-  <img src="https://img.shields.io/badge/▹_AI_INFRASTRUCTURE-00FF41?style=for-the-badge&labelColor=0D0208" />
-  <img src="https://img.shields.io/badge/▹_EX--SOLUTIONS_ARCHITECT_@_AWS-00FF41?style=for-the-badge&labelColor=0D0208&logo=amazonwebservices&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/▹_FAANG-00FF41?style=for-the-badge&labelColor=0D0208" />
+  <img src="assets/soji-badges.svg" width="88%" alt="Principal DevOps Engineer · AI Infrastructure · Ex-Solutions Architect @ AWS · FAANG" />
 </p>
 
 <p align="center">
