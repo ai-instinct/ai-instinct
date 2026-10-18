@@ -16,7 +16,7 @@
 
 ## ◢ about
 
-I'm a **Principal DevOps Engineer** specializing in **AI Infrastructure, Cloud Platform Engineering, and MLOps**. I focus on architecting, automating, and securing the infrastructure that enables organizations to deploy, operate, and scale modern AI workloads reliably and efficiently.
+I'm a **Principal DevOps Engineer** specialized in **AI Infrastructure, Cloud Platform Engineering, and MLOps**. I focus on architecting, automating, and securing the infrastructure that enables organizations to deploy, operate, and scale modern AI workloads reliably and efficiently.
 
 My work sits at the intersection of **cloud engineering, platform automation, DevSecOps, and production AI systems**. I build resilient cloud-native platforms, streamline software delivery, and establish the infrastructure foundations required to take AI initiatives from experimentation to production.
 
